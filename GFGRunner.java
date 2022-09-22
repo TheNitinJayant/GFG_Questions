@@ -1,9 +1,11 @@
 package GFG_Questions;
 
+import GFG_Questions.Tree_Questions.MaximumWidthOfBinaryTree;
+
 public class GFGRunner {
     public void run(){
-        BinaryTree binaryTree = new BinaryTree();
-        binaryTree.testBinaryTree();
+        MaximumWidthOfBinaryTree maximumWidthOfBinaryTree = new MaximumWidthOfBinaryTree();
+        maximumWidthOfBinaryTree.mainMaximumWidthOfBinaryTree();
     }
 }
 

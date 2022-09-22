@@ -1,4 +1,4 @@
-package GFG_Questions;
+package GFG_Questions.Tree_Questions;
 
 import java.util.HashMap;
 
